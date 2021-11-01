@@ -1,0 +1,18 @@
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 9%;
+}
+h1, h3 {
+  color: #184d47;
+}
+
+img{
+  border-radius: 100%;
+  /* this is to make the picture square */
+}
